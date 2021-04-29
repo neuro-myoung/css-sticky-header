@@ -6,4 +6,4 @@ See the code in action [HERE!](https://www.mikenyoung.com/css-sticky-headers)
 
 # Demo
 
-![](example.gif)
+![](/example.gif)
